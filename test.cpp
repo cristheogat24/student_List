@@ -47,7 +47,7 @@ int main()
 
     //merge list 2 into list 1
     roster.mergeList(roster2);
-    cout << "after merging list 2 into list 1: " << endl;
+    cout << "list 1 after merging with list 2: " << endl;
     roster.printList();
     cout << endl;
     cout << "list 2 after merging into list 1: " << endl;
